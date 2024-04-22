@@ -11,7 +11,7 @@ public class quiz3 {
             System.out.print("두번째 수: ");
             int b = s.nextInt();
 
-            for(int i = a; i<b; i++){
+            for(int i = a; i < b; i++){
                 if(i % 2!=0){
                     hap = hap + i;
                 }
