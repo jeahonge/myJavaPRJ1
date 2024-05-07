@@ -11,8 +11,8 @@ public class quiz4 {
 
         if (a<b){
             for(int i = a; i <= b; i++){
-                if(i%2!=0){
-                    hap +=i;
+                if(i % 2!=0){
+                    hap += i;
                 }
             }
         }else{

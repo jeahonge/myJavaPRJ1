@@ -12,7 +12,7 @@ public class quiz3 {
             int b = s.nextInt();
 
             for(int i = a; i < b; i++){
-                if(i % 2!=0){
+                if(i % 2 != 0){
                     hap = hap + i;
                 }
             }
