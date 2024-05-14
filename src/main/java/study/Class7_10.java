@@ -8,9 +8,7 @@ class Rabbit1{
        shape = "토끼";
    }
 
-   Rabbit1(String shape){
-       this.shape = shape;
-   }
+   Rabbit1(String shape){this.shape = shape;}
    void setPosition(int xPos,int yPos){
        this.xPos = xPos;
        this.yPos = yPos;
